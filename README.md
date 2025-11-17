@@ -34,3 +34,19 @@ Este repositório é destinado à documentação do projeto CIMOB e à organiza�
 <img alt="Modelagem da Sprint 1" src="https://github.com/user-attachments/assets/ca4ab10e-928b-4347-abf5-4a08738d91c6" width="800"/>
 
 </details>
+
+<details>
+<summary>Informações da Sprint 3</summary>
+
+### Detalhes da Sprint
+- **Descrição**: documentação inicial da sprint.
+
+### Links Úteis
+- [Apresentação V2]([https://github.com/Vortek-API/DocsRepo/blob/main/SPRT-1.pptx](https://github.com/Vortek-API/cimob-docs/blob/main/CIMOB%20-%20V2.pptx))
+- [Protótipo de Telas V2](https://github.com/Vortek-API/DocsRepo/blob/main/CIMOB%20-%20V1.pdf)
+- [Guia de instalação]((https://github.com/Vortek-API/cimob-docs/blob/main/Guia%20de%20Instala%C3%A7%C3%A3o.pdf))
+
+### Modelagem V2
+<img alt="Modelagem da Sprint 1" src="https://github.com/user-attachments/assets/ca4ab10e-928b-4347-abf5-4a08738d91c6" width="800"/>
+
+</details>
