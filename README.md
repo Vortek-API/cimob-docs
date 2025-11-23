@@ -55,6 +55,7 @@ A ideia é centralizar tudo num lugar só, facilitando tanto o desenvolvimento q
 - [Apresentação V2](https://github.com/Vortek-API/cimob-docs/blob/main/CIMOB%20-%20V2.pptx)
 - [Protótipo de Telas V2](https://github.com/Vortek-API/DocsRepo/blob/main/CIMOB%20-%20V1.pdf)
 - [Guia de Instalação](https://github.com/Vortek-API/cimob-docs/blob/main/Guia%20de%20Instala%C3%A7%C3%A3o.pdf)
+- [Manual do Usuário](https://github.com/Vortek-API/cimob-docs/blob/main/Manual%20do%20Usu%C3%A1rio.pdf)
 
 ### Modelagem V3
 <img alt="Modelagem da Sprint 3" src="https://github.com/user-attachments/assets/ca4ab10e-928b-4347-abf5-4a08738d91c6" width="800"/>
